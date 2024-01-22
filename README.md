@@ -26,6 +26,6 @@ To use the application, follow these steps:
 - Mark tasks as completed.
 - Delete tasks.
 
-## Credits
+## Summary
 This application was created using Python and Tkinter. The Tkinter library is a standard GUI toolkit in Python and provides a simple way to create GUI elements.
 
