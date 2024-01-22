@@ -3,7 +3,7 @@
 This is a simple to-do list application built with Python and Tkinter. It allows users to add tasks with due dates, view all tasks in a separate window, mark tasks as completed, and delete tasks.
 
 ## Installation
-To run this application, you need Python installed on your machine. Python 3.x is recommended. You can download and install Python from [python.org](https://www.python.org/downloads/).
+To run this application, you need Python installed on your machine. Python 3 is recommended. You can download and install Python from [python.org](https://www.python.org/downloads/).
 
 After installing Python, you can run the application by executing the script file. No additional libraries are required as Tkinter is part of the standard Python library.
 
